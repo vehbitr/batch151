@@ -1,0 +1,32 @@
+    STRING METHODLARI
+
+1) toUpperCase();  i)Tum harfleri buyuk harfe cevirir.
+                  ii)bize String return eder.
+                    (String bir data döndürür)
+
+2) toLowerCase(); i)Tum harfleri kucuk harf yapar.
+                 ii) bize String return eder.
+
+3) charAt(0);     i)
+                 ii)index ile calisir.
+
+4) lenght();      i)Bir datadaki karakter sayisini bize verir.
+                 ii)in bir deger döndürür
+
+5) substring();  Iki kullanimi vardir;
+                  i)baslangic ve bitis indexi verilirse
+                  baslangic indexi dahil bitis indexi haric yazilir
+                  substring(baslangicIndexiDahil,bitisIndexiHaric);
+                 ii)String'in verilen indexten sonuna kadar
+                  alinmasini saglar
+                  substring(baslangicIndexi);
+                  Bu method bize String döndürür.
+
+6) contains();  i)Bir data var mi ? yok mu? diye bakar.
+               ii)Bize boolean bir deger döndürür.
+
+
+
+
+
+
